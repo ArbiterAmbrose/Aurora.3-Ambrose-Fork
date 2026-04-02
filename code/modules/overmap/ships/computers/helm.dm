@@ -286,7 +286,7 @@
 		if(newlimit)
 			accellimit = max(newlimit/1000, 0)
 
-	 // AI and robots are allowed to pilot now
+	// AI and robots are allowed to pilot now
 		if (action == "move")
 			if(prob(usr.confused * 5))
 				params["turn"] = pick("45", "-45")
