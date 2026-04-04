@@ -259,7 +259,7 @@
 				to_chat(H, SPAN_WARNING("Automated piloting safeties prevent you from going into deep space."))
 				return
 			if(do_after(H, 1 SECOND) && connected.can_combat_roll())
-				visible_message(SPAN_DANGER("[H] tilts the yoke systematically all the way to the [ndir == WEST ? "left" : "right"]!"))
+				visible_message(SPAN_DANGER("[H] tilts the yoke all the way to the [ndir == WEST ? "left" : "right"]!"))
 				connected.combat_roll(ndir)
 		if(!issilicon(usr))
 			var/mob/living/silicon/ai/H = usr
@@ -269,7 +269,7 @@
 				to_chat(H, SPAN_WARNING("Your integrated safeguards prevent you from going into deep space."))
 				return
 			if(do_after(H, 1 SECOND) && connected.can_combat_roll())
-				visible_message(SPAN_DANGER("[H] remotely tilts the yoke all the way to the [ndir == WEST ? "left" : "right"]!"))
+				visible_message(SPAN_DANGER("[H] remotely tilts the yoke systematically all the way to the [ndir == WEST ? "left" : "right"]!"))
 				connected.combat_roll(ndir)
 
 	if (action == "manual")
