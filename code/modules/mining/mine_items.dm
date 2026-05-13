@@ -538,7 +538,7 @@
 	icon_state = "mining_engine"
 	on = FALSE
 	powered = TRUE
-	move_delay = -1
+	move_delay = 0.3
 
 	load_item_visible = TRUE
 	load_offset_x = 0
@@ -589,7 +589,7 @@
 	icon_state = "mining_trailer"
 	anchored = FALSE
 	passenger_allowed = FALSE
-	move_delay = -1
+	move_delay = 0.6
 
 	load_item_visible = TRUE
 	load_offset_x = 1
