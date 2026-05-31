@@ -12,18 +12,21 @@
 	var/list/press_types = list(
 	/obj/item/tank/jetpack = /obj/item/rig_module/maneuvering_jets,
 	/obj/item/mining_scanner = /obj/item/rig_module/device/orescanner,
-	 = /obj/item/rig_module/device/anomaly_scanner
-	 = /obj/item/rig_module/vision/nvg
-	 = /obj/item/rig_module/vision/meson
-	 = /obj/item/rig_module/vision/thermal
-	 = /obj/item/rig_module/vision/medhud
+	/obj/item/ano_scanner = /obj/item/rig_module/device/anomaly_scanner
+	/obj/item/clothing/glasses/night = /obj/item/rig_module/vision/nvg
+	/obj/item/clothing/glasses/night = /obj/item/rig_module/vision/nvg
+	/obj/item/clothing/glasses/material = /obj/item/rig_module/vision/meson
+	/obj/item/clothing/glasses/meson = /obj/item/rig_module/vision/meson
+	/obj/item/clothing/glasses/thermal = /obj/item/rig_module/vision/thermal
+	/obj/item/clothing/glasses/hud/health = /obj/item/rig_module/vision/medhud
+	/obj/item/clothing/glasses/hud/security = /obj/item/rig_module/vision/sechud
 	/obj/item/pickaxe/drill = /obj/item/rig_module/device/basicdrill,
 	/obj/item/gun/energy/plasmacutter = /obj/item/rig_module/mounted/plasmacutter,
 	/obj/item/pickaxe/diamonddrill = /obj/item/rig_module/device/drill,
 	/obj/item/gun/energy/vaurca/thermaldrill = /obj/item/rig_module/mounted/thermalldrill
-	 = /obj/item/rig_module/device/flash
-	 = /obj/item/rig_module/mounted/taser
-	 = /obj/item/rig_module/mounted/egun
+	/obj/item/flash = /obj/item/rig_module/device/flash
+	/obj/item/gun/energy/taser = /obj/item/rig_module/mounted/taser
+	/obj/item/gun/energy/gun = /obj/item/rig_module/mounted/egun
 	)
 
 /obj/machinery/mineral/rigpress/mechanics_hints(mob/user, distance, is_adjacent)
