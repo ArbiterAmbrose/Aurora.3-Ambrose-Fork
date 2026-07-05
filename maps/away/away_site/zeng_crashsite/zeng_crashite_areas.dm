@@ -9,7 +9,7 @@
 
 /area/zeng_crashsite/outside
 	area_blurb = "A pitch-black sea is before you, almost churning with dark fog that blocks your view on all directions, anything could be out there watching."
-	has_starlight = TRUE
+	needs_starlight = TRUE
 
 // ------------------------- Ruin
 
