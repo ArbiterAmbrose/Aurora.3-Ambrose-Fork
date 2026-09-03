@@ -1,9 +1,34 @@
+/datum/map_template/ruin/exoplanet/crashsurvivors
+	name = "Crashed Shuttle"
+	id = "crashed shuttle"
+	description = "A crash shuttle with gear thrown about while survivours lay inside."
+
+	spawn_weight = 3
+	spawn_cost = 0.5
+	sectors = list(ALL_TAU_CETI_SECTORS, SECTOR_VALLEY_HALE, SECTOR_BADLANDS, ALL_COALITION_SECTORS, ALL_CRESCENT_EXPANSE_SECTORS)
+	sectors_blacklist = list(LEMURIAN_SEA_SECTORS)
+
+	prefix = "grove/crashsurvivors/"
+	suffix = "crashsurvivors.dmm"
+
+	planet_types = PLANET_GROVE
+	ruin_tags = RUIN_LOWPOP|RUIN_WRECK|RUIN_HOSTILE
+
+	unit_test_groups = list(3)
+
+/area/shuttle/crashsurvivors
+	name = "Escape Shuttle"
+	icon_state = "shuttle2"
+	requires_power = TRUE
+	no_light_control = TRUE
+	is_outside = OUTSIDE_NO
+
 // ghost roles
 
 /datum/ghostspawner/human/survivor
 	short_name = "survivor"
 	name = "Survivor"
-	desc = "Well you've managed to survive the initial impact. Can you survive until rescue?"
+	desc = "Well you've managed to survive the initial impact. Can you survive the atmosphere and creatures outside until rescue?"
 	tags = list("External")
 
 	spawnpoints = list("survivor")

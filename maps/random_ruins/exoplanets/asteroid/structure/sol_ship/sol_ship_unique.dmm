@@ -1,0 +1,956 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ab" = (
+/obj/effect/landmark/clear,
+/obj/structure/window_frame/unanchored{
+	color = "#6C7364"
+	},
+/turf/template_noop,
+/area/template_noop)
+"ac" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced,
+/obj/structure/computerframe,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"aK" = (
+/obj/structure/closet/secure_closet/engineering_electrical{
+	req_access = null
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"bj" = (
+/obj/structure/bed/stool/chair/office/bridge/generic{
+	dir = 4
+	},
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"dB" = (
+/turf/simulated/wall/shuttle/dark/cardinal,
+/area/template_noop)
+"dO" = (
+/obj/structure/window/reinforced,
+/obj/structure/bed/stool/chair/office/bridge{
+	dir = 4
+	},
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"dX" = (
+/obj/structure/machinery/fabricator/autolathe,
+/obj/structure/machinery/light/colored/red{
+	dir = 8
+	},
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"fo" = (
+/obj/structure/closet/walllocker/emerglocker,
+/turf/simulated/wall/shuttle/dark/cardinal,
+/area/template_noop)
+"fT" = (
+/obj/structure/machinery/light/colored/red,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"fW" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/random/junk,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"ga" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/computerframe,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"hk" = (
+/obj/effect/map_effect/window_spawner/full/shuttle/raider,
+/turf/simulated/floor/airless,
+/area/template_noop)
+"hT" = (
+/obj/effect/decal/cleanable/blood,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"il" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/computerframe,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"iB" = (
+/obj/structure/sign/directions/medical{
+	dir = 8;
+	pixel_y = 4
+	},
+/obj/structure/sign/directions/engineering{
+	dir = 8;
+	pixel_y = -4
+	},
+/turf/simulated/wall/shuttle/raider,
+/area/template_noop)
+"jj" = (
+/obj/structure/window/reinforced,
+/obj/structure/bed/stool/chair/office/bridge,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"jt" = (
+/obj/structure/closet/crate/secure/loot,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"kr" = (
+/obj/structure/sign/directions/security{
+	dir = 4;
+	pixel_y = 4
+	},
+/obj/structure/sign/directions/civ{
+	dir = 4;
+	pixel_y = -4
+	},
+/turf/simulated/wall/shuttle/raider,
+/area/template_noop)
+"lG" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/computerframe,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"mi" = (
+/obj/structure/sign/securearea,
+/turf/simulated/wall/shuttle/raider,
+/area/template_noop)
+"mD" = (
+/obj/structure/bed/stool/chair/office/bridge/pilot{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"oz" = (
+/obj/structure/machinery/door/airlock/highsecurity{
+	req_access = list(150);
+	dir = 1
+	},
+/turf/simulated/floor/reinforced,
+/area/template_noop)
+"qD" = (
+/obj/structure/extinguisher_cabinet,
+/turf/simulated/wall/shuttle/dark/cardinal,
+/area/template_noop)
+"qH" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced,
+/obj/structure/computerframe,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"qQ" = (
+/obj/structure/machinery/door/window{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"qV" = (
+/obj/structure/machinery/door/airlock/hatch{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"rf" = (
+/obj/random/powercell,
+/obj/effect/decal/cleanable/blood/oil,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"rm" = (
+/obj/effect/landmark/clear,
+/obj/structure/machinery/atmospherics/unary/engine{
+	dir = 1
+	},
+/turf/simulated/floor/airless,
+/area/template_noop)
+"rA" = (
+/obj/effect/decal/cleanable/cobweb,
+/obj/structure/computerframe,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"rK" = (
+/obj/structure/closet/sol/navy,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/reinforced,
+/area/template_noop)
+"sa" = (
+/obj/random/toolbox,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"su" = (
+/obj/structure/computerframe,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"sK" = (
+/obj/item/material/shard,
+/obj/structure/window_frame/shuttle{
+	color = "#6C7364"
+	},
+/turf/simulated/floor/airless,
+/area/template_noop)
+"tC" = (
+/obj/structure/mech_wreckage,
+/obj/structure/machinery/mech_recharger,
+/obj/effect/floor_decal/industrial/warning/full,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"tD" = (
+/obj/structure/bed/stool/chair/office/bridge/pilot{
+	dir = 4
+	},
+/obj/item/clothing/accessory/sol_pin,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"uf" = (
+/obj/structure/extinguisher_cabinet{
+	dir = 8
+	},
+/turf/simulated/wall/shuttle/raider,
+/area/template_noop)
+"vf" = (
+/obj/effect/floor_decal/industrial/warning,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"vQ" = (
+/obj/structure/girder,
+/turf/simulated/floor/airless,
+/area/template_noop)
+"wb" = (
+/obj/structure/machinery/light/colored/red{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"wC" = (
+/obj/effect/landmark/clear,
+/obj/structure/girder/displaced,
+/turf/simulated/floor/airless,
+/area/template_noop)
+"wR" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/floor_decal/industrial/warning{
+	dir = 1
+	},
+/turf/simulated/floor/shuttle/dark_blue/airless,
+/area/template_noop)
+"wV" = (
+/obj/structure/table/rack,
+/obj/random/tool,
+/obj/random/voidsuit/no_nanotrasen,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"xv" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"yk" = (
+/obj/structure/sign/directions/com{
+	dir = 1
+	},
+/turf/simulated/wall/shuttle/raider,
+/area/template_noop)
+"yr" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/floor_decal/asteroid,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"yX" = (
+/obj/structure/window/reinforced,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/computerframe,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"zm" = (
+/obj/structure/railing/mapped{
+	dir = 8
+	},
+/turf/simulated/floor/tiled/ramp{
+	initial_gas = null
+	},
+/area/template_noop)
+"Ah" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/floor_decal/industrial/warning/full,
+/obj/structure/machinery/porta_turret/net,
+/turf/simulated/floor/reinforced,
+/area/dungeon/crashed_ship)
+"Ak" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/table/rack,
+/obj/item/stack/material/steel{
+	amount = 50;
+	pixel_x = -2
+	},
+/obj/item/stack/material/glass/full,
+/obj/item/material/shard,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Bw" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/floor_decal/industrial/warning{
+	dir = 1
+	},
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"BJ" = (
+/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Ck" = (
+/obj/effect/floor_decal/asteroid,
+/turf/template_noop,
+/area/template_noop)
+"DB" = (
+/obj/structure/machinery/door/airlock/hatch{
+	dir = 1
+	},
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Ex" = (
+/obj/structure/sign/flag/sol,
+/turf/simulated/wall/shuttle/raider,
+/area/template_noop)
+"GJ" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/table/reinforced/steel,
+/obj/item/gun/projectile/pistol/sol,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Hv" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/template_noop,
+/area/template_noop)
+"Iw" = (
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"II" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/table/reinforced/steel,
+/obj/item/paper/crumpled/bloody,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"IW" = (
+/obj/effect/landmark/clear,
+/obj/structure/girder,
+/turf/template_noop,
+/area/template_noop)
+"JP" = (
+/obj/structure/railing/mapped{
+	dir = 4
+	},
+/turf/simulated/floor/tiled/ramp{
+	initial_gas = null
+	},
+/area/template_noop)
+"Lc" = (
+/obj/structure/computerframe,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/material/shard,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Lh" = (
+/obj/effect/landmark/clear,
+/obj/structure/girder/displaced,
+/turf/template_noop,
+/area/template_noop)
+"Mx" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/table/reinforced/steel,
+/obj/item/stamp/sol{
+	pixel_x = -4;
+	pixel_y = 2
+	},
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Oi" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/computerframe,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Oz" = (
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"PV" = (
+/obj/structure/closet/walllocker/emerglocker,
+/turf/simulated/wall/shuttle/raider,
+/area/template_noop)
+"QY" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/table/reinforced/steel,
+/obj/item/clothing/head/sol/dress/officer,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Rg" = (
+/obj/structure/computerframe,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"RF" = (
+/obj/effect/landmark/clear,
+/mob/living/simple_animal/hostile/gnat{
+	wander = 0
+	},
+/turf/template_noop,
+/area/template_noop)
+"Sc" = (
+/obj/structure/closet/secure_closet/engineering_welding{
+	req_access = null
+	},
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Tj" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/reinforced,
+/area/template_noop)
+"Tp" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"TT" = (
+/obj/structure/window/reinforced,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/computerframe,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Uc" = (
+/turf/simulated/wall/shuttle/raider,
+/area/template_noop)
+"Ut" = (
+/obj/structure/table/reinforced/steel,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/machinery/door/window{
+	dir = 4;
+	req_access = list(150)
+	},
+/obj/item/clothing/suit/space/void/sol,
+/obj/item/clothing/head/helmet/space/void/sol,
+/turf/simulated/floor/reinforced,
+/area/template_noop)
+"Uz" = (
+/obj/item/material/shard,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"UF" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"VP" = (
+/turf/template_noop,
+/area/template_noop)
+"Xs" = (
+/obj/structure/table/reinforced/steel,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced,
+/obj/structure/machinery/door/window{
+	dir = 4;
+	req_access = list(150)
+	},
+/obj/item/clothing/accessory/storage/bayonet,
+/turf/simulated/floor/reinforced,
+/area/template_noop)
+"XI" = (
+/obj/structure/bed/stool/chair/office/bridge/generic,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/clothing/under/rank/sol,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Yb" = (
+/obj/effect/floor_decal/industrial/warning/full,
+/obj/structure/railing/mapped,
+/obj/structure/machinery/porta_turret_construct/dark,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"Yj" = (
+/obj/structure/girder,
+/turf/template_noop,
+/area/template_noop)
+"Zd" = (
+/obj/structure/machinery/light/colored/red,
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+"ZR" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/hostile/gnat{
+	wander = 0
+	},
+/turf/simulated/floor/tiled/dark/airless,
+/area/template_noop)
+
+(1,1,1) = {"
+VP
+VP
+VP
+VP
+VP
+VP
+Ck
+VP
+VP
+VP
+VP
+VP
+VP
+Oz
+Oz
+Oz
+Oz
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+"}
+(2,1,1) = {"
+VP
+VP
+Oz
+Oz
+Oz
+Yj
+VP
+VP
+VP
+VP
+Oz
+Oz
+Oz
+Oz
+Oz
+Oz
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+"}
+(3,1,1) = {"
+VP
+VP
+VP
+Oz
+Oz
+Oz
+dB
+Uc
+Uc
+IW
+IW
+Lh
+Oz
+Oz
+ab
+Uc
+Uc
+Uc
+Uc
+Oz
+Oz
+Oz
+VP
+VP
+VP
+VP
+"}
+(4,1,1) = {"
+VP
+VP
+VP
+dB
+Uc
+Uc
+Uc
+Uc
+yr
+Yb
+Oz
+Oz
+Oz
+UF
+Tp
+yr
+Uz
+Uc
+vQ
+dB
+Uc
+Oz
+Oz
+VP
+VP
+VP
+"}
+(5,1,1) = {"
+VP
+VP
+Uc
+Uc
+Uc
+lG
+qH
+Ex
+vf
+zm
+wR
+Oz
+Oz
+Oz
+UF
+ZR
+sa
+Uc
+Sc
+dX
+Ak
+Uc
+Oz
+Oz
+Oz
+VP
+"}
+(6,1,1) = {"
+VP
+Uc
+rA
+ga
+TT
+Mx
+dO
+mi
+UF
+Uc
+Uc
+Oz
+Oz
+Oz
+Uc
+Iw
+BJ
+Uc
+wV
+Iw
+UF
+aK
+Oz
+Oz
+VP
+VP
+"}
+(7,1,1) = {"
+VP
+Lc
+mD
+GJ
+XI
+fW
+Iw
+qV
+UF
+iB
+Iw
+Oz
+Oz
+jt
+Uc
+Oz
+UF
+DB
+Iw
+Iw
+rf
+tC
+wC
+Oz
+VP
+VP
+"}
+(8,1,1) = {"
+sK
+su
+Iw
+UF
+UF
+qQ
+Zd
+yk
+wb
+fo
+yr
+UF
+Oz
+Oz
+qD
+UF
+fT
+Uc
+Uc
+PV
+Uc
+Uc
+Oz
+Oz
+Oz
+VP
+"}
+(9,1,1) = {"
+hk
+Rg
+tD
+QY
+bj
+xv
+UF
+qV
+UF
+kr
+Oz
+hT
+Oz
+Oz
+Uc
+UF
+UF
+Uc
+rK
+Ut
+Xs
+Uc
+Oz
+Oz
+Oz
+Oz
+"}
+(10,1,1) = {"
+Uc
+Uc
+Rg
+Oi
+ac
+II
+jj
+mi
+UF
+Uc
+ab
+Oz
+UF
+Uc
+Oz
+Oz
+yr
+Uc
+Tj
+Tj
+Tj
+Uc
+rm
+Oz
+Oz
+Oz
+"}
+(11,1,1) = {"
+VP
+Uc
+Uc
+Uc
+Uc
+il
+yX
+Ex
+vf
+JP
+Bw
+Oz
+Oz
+Oz
+Oz
+Oz
+UF
+oz
+Tj
+Tj
+Ah
+Uc
+rm
+Oz
+Oz
+Oz
+"}
+(12,1,1) = {"
+VP
+Oz
+dB
+dB
+Uc
+Uc
+Uc
+Uc
+UF
+Yb
+Oz
+Oz
+Oz
+RF
+Oz
+Oz
+Oz
+Uc
+Tj
+Tj
+Tj
+Uc
+dB
+Oz
+Oz
+VP
+"}
+(13,1,1) = {"
+Oz
+Oz
+Oz
+Oz
+Oz
+dB
+dB
+Uc
+uf
+Oz
+ab
+Oz
+Oz
+Oz
+Lh
+Lh
+Uc
+Uc
+Uc
+dB
+Uc
+Uc
+Oz
+Oz
+Oz
+VP
+"}
+(14,1,1) = {"
+Oz
+Oz
+Oz
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+Oz
+Oz
+Oz
+Oz
+Oz
+Oz
+Oz
+Oz
+Hv
+VP
+Oz
+Oz
+Oz
+VP
+VP
+VP
+"}
+(15,1,1) = {"
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+Oz
+Oz
+Oz
+VP
+VP
+VP
+VP
+VP
+VP
+VP
+"}

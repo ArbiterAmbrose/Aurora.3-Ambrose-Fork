@@ -382,7 +382,9 @@
 /turf/simulated/floor/tiled/white/airless,
 /area/template_noop)
 "aX" = (
-/mob/living/simple_animal/hostile/scarybat,
+/mob/living/simple_animal/hostile/scarybat{
+	wander = 0
+	},
 /turf/simulated/floor/exoplanet/grass/grove,
 /area/template_noop)
 "aY" = (
@@ -679,7 +681,7 @@ af
 be
 ad
 ab
-aX
+be
 be
 be
 am
@@ -713,7 +715,7 @@ af
 be
 ad
 aj
-be
+aX
 be
 be
 am

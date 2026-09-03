@@ -80,7 +80,9 @@
 /turf/simulated/floor/exoplanet/barren,
 /area/template_noop)
 "y" = (
-/mob/living/simple_animal/hostile/scarybat,
+/mob/living/simple_animal/hostile/scarybat{
+	wander = 0
+	},
 /turf/simulated/floor/exoplanet/barren,
 /area/template_noop)
 "A" = (
@@ -96,7 +98,9 @@
 /turf/simulated/floor/exoplanet/barren,
 /area/template_noop)
 "D" = (
-/mob/living/simple_animal/hostile/scarybat,
+/mob/living/simple_animal/hostile/scarybat{
+	wander = 0
+	},
 /obj/random/dirt_75,
 /turf/simulated/floor/exoplanet/barren,
 /area/template_noop)
@@ -148,7 +152,9 @@
 /turf/simulated/floor/exoplanet/barren,
 /area/template_noop)
 "Q" = (
-/mob/living/simple_animal/hostile/scarybat,
+/mob/living/simple_animal/hostile/scarybat{
+	wander = 0
+	},
 /obj/structure/track,
 /obj/random/dirt_75,
 /turf/simulated/floor/exoplanet/barren,

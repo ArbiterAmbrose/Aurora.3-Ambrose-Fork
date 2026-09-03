@@ -1,0 +1,618 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/simulated/wall/shuttle/dark/cardinal/gadpathur,
+/area/template_noop)
+"b" = (
+/obj/structure/machinery/constructable_frame/temp_deco,
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"c" = (
+/turf/template_noop,
+/area/template_noop)
+"d" = (
+/obj/item/stack/cable_coil/cut{
+	pixel_x = -10
+	},
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"f" = (
+/obj/structure/cable/green{
+	icon_state = "11-8"
+	},
+/obj/structure/cable/green{
+	icon_state = "11-4"
+	},
+/obj/random/tool{
+	pixel_y = 6
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/floor_damage/random_broken,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"g" = (
+/obj/item/material/shard{
+	icon_state = "small";
+	pixel_x = 8;
+	pixel_y = 10
+	},
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"h" = (
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"i" = (
+/obj/item/package/delivery/offship{
+	pixel_y = -2;
+	pixel_x = 3
+	},
+/obj/item/package/delivery/offship{
+	pixel_y = 10;
+	pixel_x = -2
+	},
+/obj/item/package/delivery/offship,
+/obj/item/package/delivery/offship{
+	pixel_y = -2;
+	pixel_x = 1
+	},
+/obj/effect/floor_decal/industrial/outline/operations,
+/turf/simulated/floor/exoplanet/tiled/full,
+/area/template_noop)
+"l" = (
+/obj/effect/decal/cleanable/liquid_fuel,
+/obj/effect/decal/cleanable/floor_damage/random_broken,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"m" = (
+/obj/effect/floor_decal/corner/blue{
+	dir = 9
+	},
+/obj/structure/computerframe,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/exoplanet/tiled,
+/area/template_noop)
+"n" = (
+/obj/item/material/shard{
+	pixel_x = 7
+	},
+/obj/structure/window_frame/empty,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"o" = (
+/obj/item/material/shard{
+	icon_state = "small";
+	pixel_x = -9
+	},
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"p" = (
+/obj/item/material/shard{
+	pixel_y = 8
+	},
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"q" = (
+/obj/structure/girder/displaced,
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"r" = (
+/obj/effect/floor_decal/corner/blue{
+	dir = 5
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/exoplanet/tiled,
+/area/template_noop)
+"s" = (
+/obj/item/material/shard{
+	icon_state = "medium"
+	},
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"t" = (
+/obj/item/material/shard{
+	pixel_x = -6
+	},
+/obj/structure/computerframe,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"u" = (
+/obj/effect/decal/cleanable/floor_damage/broken2,
+/turf/simulated/floor/exoplanet/tiled,
+/area/template_noop)
+"v" = (
+/obj/effect/decal/cleanable/liquid_fuel,
+/turf/simulated/floor/exoplanet/tiled,
+/area/template_noop)
+"w" = (
+/obj/item/stack/cable_coil/cut,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"x" = (
+/obj/structure/cable/green{
+	icon_state = "1-4"
+	},
+/obj/effect/decal/cleanable/greenglow,
+/turf/simulated/floor/exoplanet/tiled/full,
+/area/template_noop)
+"z" = (
+/obj/structure/machinery/power/smes/batteryrack,
+/obj/structure/cable/green{
+	icon_state = "0-2"
+	},
+/obj/effect/floor_decal/industrial/outline/engineering,
+/turf/simulated/floor/exoplanet/tiled/full,
+/area/template_noop)
+"B" = (
+/obj/item/package/delivery/offship/to_horizon,
+/obj/item/package/delivery/offship/to_horizon{
+	pixel_y = -3;
+	pixel_x = 7
+	},
+/obj/item/package/delivery/offship/to_horizon{
+	pixel_y = 8;
+	pixel_x = 7
+	},
+/obj/effect/floor_decal/industrial/outline/operations,
+/turf/simulated/floor/exoplanet/tiled/full,
+/area/template_noop)
+"D" = (
+/obj/effect/decal/cleanable/liquid_fuel,
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"E" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/floor_damage/broken0,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"F" = (
+/obj/effect/landmark/clear,
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"G" = (
+/obj/item/material/shard,
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"I" = (
+/obj/structure/girder,
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"J" = (
+/obj/structure/girder/displaced,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"K" = (
+/obj/structure/machinery/atmospherics/unary/engine{
+	dir = 1
+	},
+/obj/effect/landmark/clear,
+/obj/effect/decal/cleanable/liquid_fuel,
+/turf/template_noop,
+/area/template_noop)
+"L" = (
+/obj/item/material/shard{
+	icon_state = "medium";
+	pixel_y = 11
+	},
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"O" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"P" = (
+/obj/random/tool,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"R" = (
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"T" = (
+/obj/structure/cable/green{
+	icon_state = "4-8"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/floor_damage/broken2,
+/turf/simulated/floor/exoplanet/tiled,
+/area/template_noop)
+"U" = (
+/obj/structure/cable/green{
+	icon_state = "11-1"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/floor_damage/broken5,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"V" = (
+/obj/structure/girder,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+"W" = (
+/obj/structure/machinery/atmospherics/unary/engine{
+	dir = 1
+	},
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"X" = (
+/obj/structure/cable/green{
+	icon_state = "2-8"
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/exoplanet/tiled,
+/area/template_noop)
+"Y" = (
+/obj/structure/lattice,
+/obj/effect/landmark/clear,
+/turf/template_noop,
+/area/template_noop)
+"Z" = (
+/obj/structure/machinery/constructable_frame/temp_deco,
+/obj/effect/decal/cleanable/dirt,
+/turf/simulated/floor/exoplanet/plating,
+/area/template_noop)
+
+(1,1,1) = {"
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+"}
+(2,1,1) = {"
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+"}
+(3,1,1) = {"
+c
+c
+c
+c
+c
+c
+c
+R
+V
+R
+R
+c
+c
+c
+c
+c
+c
+c
+c
+c
+"}
+(4,1,1) = {"
+c
+c
+c
+c
+c
+c
+h
+J
+W
+d
+R
+R
+Y
+c
+c
+c
+c
+c
+c
+c
+"}
+(5,1,1) = {"
+c
+c
+c
+c
+c
+a
+a
+a
+a
+o
+R
+q
+Y
+c
+c
+c
+c
+D
+c
+c
+"}
+(6,1,1) = {"
+c
+c
+I
+a
+a
+a
+z
+x
+q
+R
+p
+a
+a
+a
+a
+Y
+R
+K
+D
+c
+"}
+(7,1,1) = {"
+c
+c
+I
+V
+m
+Z
+w
+f
+R
+F
+R
+R
+R
+R
+R
+Y
+c
+D
+c
+c
+"}
+(8,1,1) = {"
+c
+c
+n
+t
+R
+R
+r
+T
+Y
+Y
+l
+v
+u
+V
+b
+c
+c
+c
+c
+c
+"}
+(9,1,1) = {"
+c
+c
+s
+R
+G
+R
+E
+X
+U
+O
+P
+R
+R
+I
+b
+c
+c
+c
+c
+c
+"}
+(10,1,1) = {"
+c
+c
+c
+a
+a
+Y
+h
+B
+i
+R
+G
+q
+q
+q
+q
+Y
+c
+c
+c
+c
+"}
+(11,1,1) = {"
+c
+c
+c
+c
+c
+c
+R
+a
+a
+R
+g
+R
+R
+R
+R
+c
+c
+c
+c
+c
+"}
+(12,1,1) = {"
+c
+c
+c
+c
+c
+c
+L
+V
+Y
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+"}
+(13,1,1) = {"
+c
+c
+c
+c
+c
+c
+G
+c
+Y
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+"}
+(14,1,1) = {"
+c
+c
+c
+c
+c
+c
+c
+c
+Y
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+"}
+(15,1,1) = {"
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+"}
+(16,1,1) = {"
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+"}
