@@ -1,4 +1,4 @@
-/datum/map_template/ruin/exoplanet/burzsia_mining
+/datum/map_template/ruin/exoplanet/burzsia_mining/burzsia_mining
 	name = "Hephaestus Burzsia Mining Outpost"
 	id = "burzsia_mining"
 	description = "A mining outpost operated by Hephaestus Industries."

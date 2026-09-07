@@ -1,4 +1,4 @@
-/datum/map_template/ruin/exoplanet/carp_nest
+/datum/map_template/ruin/exoplanet/carp_nest/carp_nest
 	name = "Carp Nest"
 	id = "carp_nest"
 	description = "A nest of deadly space carps."

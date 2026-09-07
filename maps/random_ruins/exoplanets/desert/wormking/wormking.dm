@@ -1,4 +1,4 @@
-/datum/map_template/ruin/exoplanet/desert_comms
+/datum/map_template/ruin/exoplanet/wormking
 	name = "Worm Den"
 	id = "wormking"
 	description = "A writhing group of massive worms sifting through the sands who seem to have a history of eating larger prey.."

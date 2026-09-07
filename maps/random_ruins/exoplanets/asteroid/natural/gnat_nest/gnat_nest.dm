@@ -1,4 +1,4 @@
-/datum/map_template/ruin/exoplanet/gnat_nest
+/datum/map_template/ruin/exoplanet/gnat_nest/gnat_nest
 	name = "Gnat Nest"
 	id = "gnat_nest"
 	description = "A nest of pathetic space gnats."
